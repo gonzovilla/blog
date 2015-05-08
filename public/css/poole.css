@@ -250,7 +250,7 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-.beta tbody tr, th {
+.beta tbody td tr, th {
     border: 0px;
     background-color: transparent;
 }

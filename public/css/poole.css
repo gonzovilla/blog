@@ -235,6 +235,10 @@ img {
 }
 
 /* Tables */
+.beta tbody td tr, th {
+    border: 0px;
+    background-color: transparent;
+}
 table {
   margin-bottom: 1rem;
   width: 100%;
@@ -250,11 +254,6 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-.beta tbody td tr, th {
-    border: 0px;
-    background-color: transparent;
-}
-
 
 /*
  * Custom type

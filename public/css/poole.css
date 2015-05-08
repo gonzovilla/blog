@@ -251,6 +251,11 @@ tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
 
+.beta td {
+    border: 0px;
+    background-color: transparent;
+}
+
 
 /*
  * Custom type

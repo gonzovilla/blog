@@ -235,7 +235,7 @@ img {
 }
 
 /* Tables */
-.beta tbody td tr, th {
+.beta tbody td tr th {
     border: 0px;
     background-color: transparent;
 }
